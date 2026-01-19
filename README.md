@@ -15,9 +15,11 @@ Email Me 👉 ✉️ **sannikumargupta43@gmail.com** For Collaboration/Project o
 
 
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+[![YouTube](https://img.shields.io/badge/YouTube-SG%20Code-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Sgcode-u85)
+[![Instagram](https://img.shields.io/badge/Instagram-Sanni-pink?logo=instagram&logoColor=white)](https://www.instagram.com/itz____sanni/)
+[![Facebook](https://img.shields.io/badge/Facebook-Sanni%20Gupta-blue?logo=facebook&logoColor=white)](https://www.facebook.com/sannigupta.sannigupta.334)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Sanni%20Gupta-red?logo=pinterest&logoColor=white)](https://in.pinterest.com/sannikumargupta43/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:sannikumargupta43@gmail.com)
 
 <!-- Snake Game Repo View -->
 
