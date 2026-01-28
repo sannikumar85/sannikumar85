@@ -16,13 +16,9 @@ Email Me 👉 ✉️ **sannikumargupta43@gmail.com** For Collaboration/Project o
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-SG%20Code-red?logo=youtube)](https://www.youtube.com/@Sgcode-u85)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Sanni-pink?logo=instagram)](https://instagram.com/itz____sanni)
-
 [![Facebook](https://img.shields.io/badge/Facebook-Sanni%20Gupta-blue?logo=facebook)](https://facebook.com/sannigupta.sannigupta.334)
-
 [![Pinterest](https://img.shields.io/badge/Pinterest-Sanni%20Gupta-red?logo=pinterest)](https://in.pinterest.com/sannikumargupta43/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail)](mailto:sannikumargupta43@gmail.com)
 
 
