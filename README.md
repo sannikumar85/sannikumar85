@@ -1,39 +1,49 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Sanni%20Kumar%20Gupta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanni%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=🚀%20MERN%20Stack%20Developer%20%7C%20🤖%20AI%20Builder%20%7C%20🎓%20B.Tech%20CSE&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-<!-- Typing SVG -->
-<a href="https://github.com/sannikumar85">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sanni+Kumar+Gupta;🚀+Building+Real-World+Web+Apps;🤖+AI-Powered+Full-Stack+Projects;💡+DSA+in+Java+%7C+MERN+Stack+Dev;🎓+B.Tech+CSE+%7C+Graduating+2027;🤝+Open+to+Collaboration!" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=👋+Hi+there%2C+I'm+Sanni+Kumar+Gupta!;🚀+Building+Scalable+Web+Applications;🤖+AI-Powered+Full-Stack+Projects;💡+DSA+Enthusiast+in+Java;🎓+B.Tech+CSE+%7C+Graduating+2027;🤝+Always+Open+to+Collaborate!)](https://github.com/sannikumar85)
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=sannikumar85&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/sannikumar85)
-[![GitHub followers](https://img.shields.io/github/followers/sannikumar85?label=Followers&style=for-the-badge&color=8b5cf6)](https://github.com/sannikumar85?tab=followers)
-[![Repos](https://img.shields.io/badge/Public%20Repos-52-06b6d4?style=for-the-badge&logo=github)](https://github.com/sannikumar85?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=sannikumar85&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/sannikumar85)
+[![GitHub followers](https://img.shields.io/github/followers/sannikumar85?label=Followers&style=for-the-badge&color=6d28d9&logo=github)](https://github.com/sannikumar85?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sannikumar85?label=Total+Stars&style=for-the-badge&color=7c3aed&logo=github)](https://github.com/sannikumar85)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
 const sanni = {
-  name: "Sanni Kumar Gupta",
-  role: "Software Engineer & MERN Stack Developer",
-  location: "Rajasthan, India 🇮🇳",
-  education: "B.Tech CSE | Graduating 2027",
-  currentlyBuilding: "Startup Project — Eazy Property & Solution",
-  currentlyLearning: ["MERN Stack", "Flutter / App Development", "AI Integration"],
-  openTo: "Collaborations, Freelance Projects, Open Source",
-  contactMe: "sannikumargupta43@gmail.com",
-  funFact: "I Love Tech and Tech Loves Me ⚡"
+  name     : "Sanni Kumar Gupta",
+  role     : "Software Engineer & MERN Stack Developer",
+  location : "Rajasthan, India 🇮🇳",
+  education: "B.Tech CSE — Graduating 2027",
+
+  building : "Startup → Eazy Property & Solution",
+  learning : ["MERN Stack", "Flutter", "AI Integration"],
+  openTo   : "Collaborations · Freelance · Open Source",
+  contact  : "sannikumargupta43@gmail.com",
+
+  funFact  : "I Love Tech and Tech Loves Me ⚡"
 };
 ```
+
+<br/>
+
+- 🔭 Currently working on my **Startup Project**
+- 🌱 Currently learning **MERN Stack + App Development**
+- 👯 Looking to collaborate on **Eazy Property & Solution**
+- 💬 Ask me about **Collaboration, Tech Support, MERN**
+- 📫 Reach me at **sannikumargupta43@gmail.com**
+- ⚡ Fun fact: **I Love Tech and Tech Loves Me!**
+
+<br clear="right"/>
 
 ---
 
@@ -41,30 +51,30 @@ const sanni = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6366f1?style=for-the-badge&logo=firefox&logoColor=white)](https://sanniportfolio8579.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7c3aed?style=for-the-badge)](https://sanniportfolio8579.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanni-kumar-gupta-10792b290)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sannikumargupta43@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanni_gupta8579/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sannikumaav1s/)
-[![YouTube](https://img.shields.io/badge/YouTube-SG%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sgcode-u85)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sannikumargupta43@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-SG_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sgcode-u85)
 [![Instagram](https://img.shields.io/badge/Instagram-@itz____sanni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz____sanni)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanni_gupta8579/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sannikumaav1s/)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| [🤖 JiraTicketAnalyzer](https://github.com/sannikumar85/JiraTicketAnlyzer) | AI agent that checks if a GitHub PR satisfies a Jira ticket — returns PASS/PARTIAL/FAIL with evidence | TypeScript, React, Express, OpenAI, Vite, Tailwind |
-| [🧸 AI Lego Toys](https://github.com/sannikumar85/AI_Lego-toys) | AI-powered platform for Lego toy recommendations with a full MERN + AI server architecture | Node.js, React, Python AI Server, MongoDB |
-| [📅 Timetable Scheduler](https://github.com/sannikumar85/TIME_TABLE_SCHEDULAR) | Smart college timetable management system built with MERN stack | MongoDB, Express, React, Node.js |
-| [⛏️ Rockfall Prediction](https://github.com/sannikumar85/Hackthon_project_for_rockfall_prediction) | Hackathon project — AI-based mining rockfall prediction using sensor/camera data | JavaScript, AI/ML |
-| [📱 Go Gantabye App](https://github.com/sannikumar85/GO_GANTABYE_MOBILE_APP_FRONTEND) | Mobile app frontend for a real-world transport/travel solution | Flutter / Dart |
-| [🏆 SIH 2025](https://github.com/sannikumar85/SIH2025) | Smart India Hackathon 2025 project submission | JavaScript, MERN |
+| 🏷️ Project | 💡 What It Does | 🛠️ Tech Stack |
+|:---|:---|:---|
+| [🤖 JiraTicket Analyzer](https://github.com/sannikumar85/JiraTicketAnlyzer) | AI agent that evaluates if a GitHub PR satisfies a Jira ticket — returns **PASS / PARTIAL / FAIL** with full evidence | TypeScript · React · Express · OpenAI · Tailwind |
+| [🧸 AI Lego Toys](https://github.com/sannikumar85/AI_Lego-toys) | AI-powered toy recommendation platform with MERN + dedicated Python AI server | Node.js · React · Python · MongoDB |
+| [⛏️ Rockfall Prediction](https://github.com/sannikumar85/Hackthon_project_for_rockfall_prediction) | Hackathon — AI mining safety system predicting rockfalls from sensor & camera data | JavaScript · AI/ML |
+| [📅 Timetable Scheduler](https://github.com/sannikumar85/TIME_TABLE_SCHEDULAR) | Smart college timetable management & scheduling system | MongoDB · Express · React · Node.js |
+| [📱 Go Gantabye App](https://github.com/sannikumar85/GO_GANTABYE_MOBILE_APP_FRONTEND) | Mobile frontend for a real-world travel/transport solution | Flutter · Dart |
+| [🏆 SIH 2025](https://github.com/sannikumar85/SIH2025) | Smart India Hackathon 2025 national-level project | JavaScript · MERN |
 
 </div>
 
@@ -72,64 +82,65 @@ const sanni = {
 
 ## 💻 Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
 
-**Databases & Cloud**
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sannikumar85&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sannikumar85&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sannikumar85&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -138,28 +149,29 @@ const sanni = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sannikumar85&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sannikumar85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+> **One-time setup needed:** Go to your **sannikumar85/sannikumar85** repo → Actions → New workflow → add [Platane/snk](https://github.com/Platane/snk) → commit. Then replace this block with:
+> ```html
+> <img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg"/>
+> ```
 
 ---
 
-## ✍️ Dev Quote of the Day
+## ✍️ Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -167,23 +179,14 @@ const sanni = {
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sannikumar85&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-**💬 "Building real-world solutions, one commit at a time."**
+### 💜 *"Building real-world solutions, one commit at a time."*
 
-[![](https://visitcount.itsvg.in/api?id=sannikumar85&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sannikumar85&icon=6&color=7)](https://visitcount.itsvg.in)
 
-*✨ Proudly crafted with passion from Rajasthan, India*
+*Made with ❤️ from Rajasthan, India 🇮🇳*
 
 </div>
