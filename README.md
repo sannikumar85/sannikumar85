@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sanni Kumar Gupta
-**A passionate SOftware Engineer || MERN STACK devloper || Wrk on real world problem **
+**A passionate SOftware Engineer || MERN STACK devloper || Work on real world problem **
 
 Email Me 👉 ✉️ **sannikumargupta43@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
