@@ -1,274 +1,62 @@
-<div align="center">
+# 💫 Hi 👋, I'm Sanni Kumar Gupta
+**A passionate SOftware Engineer || MERN STACK devloper || Work on real world problem **
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sanni%20Kumar%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=🚀%20MERN%20Stack%20%7C%20🤖%20AI%20Builder%20%7C%20🎓%20B.Tech%20CSE%202027&descAlignY=58&descSize=18&animation=fadeIn"/>
+Email Me 👉 ✉️ **sannikumargupta43@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Sanni+Kumar+Gupta;🚀+MERN+Stack+%26+Full-Stack+Developer;🤖+Building+AI-Powered+Real+Projects;💡+DSA+in+Java+%7C+52%2B+Repos+on+GitHub;🎓+B.Tech+CSE+%7C+Class+of+2027;🤝+Let's+Build+Something+Together!)](https://github.com/sannikumar85)
+- 🔭 **I’m currently working on:** My Startup project
+- 🌱 **I’m currently learning:** MERN STACK || APP DEVELOPER
+- 👯 **I’m looking to collaborate on:** Eazy property and solution
 
-<br/>
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Sanni Gupta
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-<!-- BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=sannikumar85&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/sannikumar85)
-[![Followers](https://img.shields.io/github/followers/sannikumar85?label=👥+Followers&style=for-the-badge&color=6d28d9)](https://github.com/sannikumar85?tab=followers)
-[![Repos](https://img.shields.io/badge/📁_Public_Repos-52+-7c3aed?style=for-the-badge)](https://github.com/sannikumar85?tab=repositories)
-[![Open Source](https://img.shields.io/badge/🤝_Open_To-Collaborate-06b6d4?style=for-the-badge)](mailto:sannikumargupta43@gmail.com)
 
-</div>
 
----
 
-## 🧑‍💻 The Dev Behind The Code
+[![YouTube](https://img.shields.io/badge/YouTube-SG%20Code-red?logo=youtube)](https://www.youtube.com/@Sgcode-u85)
+[![Instagram](https://img.shields.io/badge/Instagram-Sanni-pink?logo=instagram)](https://instagram.com/itz____sanni)
+[![Facebook](https://img.shields.io/badge/Facebook-Sanni%20Gupta-blue?logo=facebook)](https://facebook.com/sannigupta.sannigupta.334)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Sanni%20Gupta-red?logo=pinterest)](https://in.pinterest.com/sannikumargupta43/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail)](mailto:sannikumargupta43@gmail.com)
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```typescript
-const sanni: Developer = {
-  name      : "Sanni Kumar Gupta",
-  title     : "Software Engineer & MERN Stack Dev",
-  location  : "🇮🇳 Rajasthan, India",
-  education : "B.Tech CSE — Graduating 2027",
-
-  currentWork : "🏗️  Startup → Eazy Property & Solution",
-  learning    : ["MERN Stack", "Flutter", "AI/LLMs"],
-  interests   : ["Web Dev", "AI Apps", "Open Source"],
-  openTo      : "Freelance · Collabs · Full-Time Roles",
-
-  contact     : "sannikumargupta43@gmail.com",
-  portfolio   : "sanniportfolio8579.netlify.app",
-  motto       : "⚡ I Love Tech and Tech Loves Me",
-};
-```
-
-<br/>
-
-🔭 Working on → **My Startup (Eazy Property & Solution)**  
-🌱 Learning → **MERN Stack · Flutter · AI Integration**  
-👯 Want to Collaborate on → **Real-world impactful projects**  
-💬 Talk to me about → **MERN, DSA, Tech, Collaborations**  
-📫 Email → **sannikumargupta43@gmail.com**  
-⚡ Fun Fact → **52+ repos and still going strong!**
-
-<br clear="right"/>
-
----
-
-## 🌐 Let's Connect
+<!-- Snake Game Repo View -->
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanniportfolio8579-7c3aed?style=for-the-badge&logoColor=white)](https://sanniportfolio8579.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanni_Kumar_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanni-kumar-gupta-10792b290)
-[![Gmail](https://img.shields.io/badge/Gmail-sannikumargupta43-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sannikumargupta43@gmail.com)
-
-[![YouTube](https://img.shields.io/badge/YouTube-SG_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sgcode-u85)
-[![Instagram](https://img.shields.io/badge/Instagram-itz____sanni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz____sanni)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sanni__gupta8579-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanni_gupta8579/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-sannikumaav1s-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sannikumaav1s/)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-SG%20Code-red?logo=youtube)](https://www.youtube.com/@Sgcode-u85)
+[![Instagram](https://img.shields.io/badge/Instagram-Sanni-pink?logo=instagram)](https://instagram.com/itz____sanni)
+[![Facebook](https://img.shields.io/badge/Facebook-Sanni%20Gupta-blue?logo=facebook)](https://facebook.com/sannigupta.sannigupta.334)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Sanni%20Gupta-red?logo=pinterest)](https://in.pinterest.com/sannikumargupta43/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?logo=gmail)](mailto:sannikumargupta43@gmail.com)
 
-## 🚀 Featured Projects
 
-<div align="center">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sannikumar85&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sannikumar85&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🤖 AI & Advanced Projects
+## 🏆 GitHub Trophies
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [**🤖 JiraTicket Analyzer**](https://github.com/sannikumar85/JiraTicketAnlyzer) | Production-ready AI agent that evaluates if a GitHub PR satisfies a Jira ticket → returns **PASS / PARTIAL / FAIL** verdict with full requirement-level evidence | `TypeScript` `React` `Express` `OpenAI` `Tailwind` `Vitest` |
-| [**🧸 AI Lego Toys**](https://github.com/sannikumar85/AI_Lego-toys) | AI-powered toy recommendation platform — MERN stack + dedicated Python AI microserver | `Node.js` `React` `Python` `MongoDB` `Vite` |
-| [**⛏️ Rockfall Prediction**](https://github.com/sannikumar85/Hackthon_project_for_rockfall_prediction) | Hackathon winner — AI mining safety system that predicts rockfalls from live sensor & camera data | `JavaScript` `AI/ML` `OpenCV` |
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sannikumar85&theme=radical&column=6&margin-w=10&margin-h=10" />
+</p>
 
-### 🌐 Web & Mobile Apps
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [**📅 Timetable Scheduler**](https://github.com/sannikumar85/TIME_TABLE_SCHEDULAR) | Smart college timetable management & conflict-free scheduling system | `MongoDB` `Express` `React` `Node.js` |
-| [**📱 Go Gantabye**](https://github.com/sannikumar85/GO_GANTABYE_MOBILE_APP_FRONTEND) | Mobile frontend for a real-world travel/transport solution | `Flutter` `Dart` |
-| [**🏆 SIH 2025**](https://github.com/sannikumar85/SIH2025) | Smart India Hackathon 2025 — national level submission | `MERN Stack` `JavaScript` |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🗣️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sannikumar85&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sannikumar85&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-> ℹ️ Stats cards load from GitHub's servers — they may take a few seconds. If blank, try refreshing.
-
-<div align="center">
-
-<a href="https://github.com/sannikumar85">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=sannikumar85&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD6387&ring=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-</a>
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<a href="https://github.com/sannikumar85">
-  <img src="https://github-profile-trophy.vercel.app/?username=sannikumar85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/sannikumar85">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area_color=302b63&area=true&hide_border=true&custom_title=Sanni's%20GitHub%20Activity%20Graph" width="95%"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- 
-  ✅ SETUP IN 2 MINS:
-  1. Go to github.com/sannikumar85/sannikumar85
-  2. Click Actions → New workflow → "set up a workflow yourself"
-  3. Paste this YAML and commit:
-
-  name: Generate Snake
-  on:
-    schedule: [{cron: "0 0 * * *"}]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: sannikumar85
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  4. Then replace this entire comment block with:
-  <img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg"/>
--->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <br/>
-  <em>🐍 Snake animation coming soon — setup takes 2 minutes! See comment above ☝️</em>
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
-</div>
-
----
-
-## 📌 What I'm Building Right Now
-
-```
-🏗️  Eazy Property & Solution — PropTech Startup
-     ├── 🌐 Web App (MERN Stack)
-     ├── 📱 Mobile App (Flutter / Dart)
-     └── 🤖 AI Features (LLM Integration)
-```
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🚀 Launch **Eazy Property & Solution** MVP
-- [ ] 📱 Ship my first **Flutter app** to Play Store
-- [ ] 🤖 Build **3 more AI-integrated projects**
-- [ ] ⭐ Reach **100 GitHub Stars** across repos
-- [ ] 🌍 Contribute to **5+ Open Source** projects
-- [ ] 💼 Land a **great internship / full-time role**
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
-
-### 💜 *"Building real-world solutions, one commit at a time."*
-
-[![](https://visitcount.itsvg.in/api?id=sannikumar85&icon=6&color=7)](https://visitcount.itsvg.in)
-
-**Made with ❤️ + ☕ from Rajasthan, India 🇮🇳**
-
-*⭐ If you like my work, drop a star on any of my repos — it means a lot!*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
