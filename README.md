@@ -233,62 +233,6 @@ const sanni: Engineer = {
 ---
 
 ## 🐍 Contribution Snake — Step-by-Step Setup
-
-> **Do this ONCE — it takes 2 minutes and your snake will appear forever.**
-
-### Step 1: Create a workflow file
-Go to your repo → **`sannikumar85/sannikumar85`** → click **Add file** → **Create new file**
-
-**Path:** `.github/workflows/snake.yml`
-
-**Paste this entire YAML:**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sannikumar85
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/octocat-snark-neon.svg
-            dist/github-contribution-grid-snake-stats.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Click **Commit changes** ✅
-
-### Step 2: Trigger it
-1. Go to **Actions** tab in your repo
-2. Click **Generate Snake** workflow
-3. Click **Run workflow** → **Run workflow** button
-4. Wait ~30 seconds
-
-### Step 3: Use the snake image
-After running, replace the placeholder section in your README with:
-
-```markdown
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
@@ -296,9 +240,8 @@ After running, replace the placeholder section in your README with:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-```
 
----
+
 
 ## ✍️ Random Dev Quote
 
