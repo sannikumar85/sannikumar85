@@ -33,7 +33,7 @@ const sanni: Engineer = {
   education : "B.Tech CSE — Class of 2027",
 
   currentFocus : [
-    "🏗️  Founder @ Eazy Property & Solution (PropTech Startup)",
+    
     "🤖  Building AI-integrated full-stack products",
     "📊  Data Engineering with Python + SQL + ETL",
     "📱  Cross-platform apps with Flutter"
@@ -45,7 +45,7 @@ const sanni: Engineer = {
     backend    : ["Node.js", "Express", "FastAPI", "Socket.io", "REST"],
     data       : ["MongoDB", "MySQL", "Firebase", "Pandas", "NumPy"],
     devops     : ["Git", "GitHub", "Docker", "Vercel", "Render", "Netlify"],
-    ai         : ["OpenAI API", "LangChain", "LLM Integrations"]
+    ai         : ["OpenAI API", "LLM Integrations"]
   },
 
   funFact    : "⚡ 52+ repos, multiple hackathons, and I'm just getting started!",
@@ -57,7 +57,6 @@ const sanni: Engineer = {
 
 <br/>
 
-- 🔭 **Currently working on** → My startup **Eazy Property & Solution** (PropTech)
 - 🌱 **Learning** → MERN Stack · Flutter · AI/LLM · Data Engineering
 - 👯 **Open to collaborate on** → Real-world impactful projects & open source
 - 💬 **Ask me about** → MERN, DSA in Java, AI Integration, Startups
