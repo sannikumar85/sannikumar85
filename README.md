@@ -310,53 +310,6 @@ const sanni = {
 ---
 
 ## 🐍 Contribution Snake — Working Setup
-
-> **Setup ONCE in 2 minutes** — Snake runs forever after that!
-
-### 📁 Step 1: Create file `.github/workflows/snake.yml` in your repo
-
-**Copy-paste this YAML:**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sannikumar85
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/octocat-snark-neon.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### ▶️ Step 2: Run it
-1. Commit the file
-2. Go to **Actions** tab → click **Generate Snake** → **Run workflow**
-
-### 🐍 Step 3: Add to README (replace the placeholder below)
-
-```markdown
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
@@ -364,9 +317,6 @@ jobs:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-```
-
----
 
 ## ✨ Random Dev Quote
 
@@ -386,9 +336,9 @@ jobs:
 ║  🤖  AI Layer         → LLM-powered recommendations  ║
 ║  📊  Data Pipeline    → Python ETL + analytics       ║
 ╚═══════════════════════════════════════════════════════╝
-```
 
----
+
+
 
 ## 🎯 My 2025 Goals
 
