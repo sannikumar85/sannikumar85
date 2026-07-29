@@ -208,7 +208,7 @@ const sanni: Engineer = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
 </a>
 
-</div>
+ </div>
 
 ---
 
