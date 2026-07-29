@@ -71,7 +71,7 @@ const sanni: Engineer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://sanniportfolio8579.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)]((https://portfolio-new-b6ld.vercel.app/))
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanni-kumar-gupta-10792b290)
 &nbsp;
