@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sanni%20Kumar%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=🚀%20MERN%20Stack%20%7C%20🤖%20AI%20Builder%20%7C%20🎓%20B.Tech%20CSE%202027&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Sanni+Kumar+Gupta;🚀+MERN+Stack+%26+Full-Stack+Developer;🤖+Building+AI-Powered+Real+Projects;💡+DSA+in+Java+%7C+52%2B+Repos+on+GitHub;🎓+B.Tech+CSE+%7C+Class+of+2027;🤝+Let's+Build+Something+Together!)](https://github.com/sannikumar85)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Sanni+Kumar+Gupta;🚀+MERN+Stack+%26+Full-Stack+Developer;🤖+Building+AI-Powered+Real+Projects;💡+DSA+in+Java+%7C+52%2B+Repos+on+GitHub;🎓+B.Tech+CSE+%7C+Class+of+2027;🏢+SDE+Intern+%40+Ideaforage+%7C+NIC+Program;🤝+Let's+Build+Something+Together!)](https://github.com/sannikumar85)
 
 <br/>
 
@@ -29,23 +29,29 @@ const sanni: Developer = {
   location  : "🇮🇳 Rajasthan, India",
   education : "B.Tech CSE — Graduating 2027",
 
+  experience : [
+    "🏢 SDE Intern @ Ideaforage (Toynik.AI) — May–Aug 2026",
+    "🏛️  NIC Mobile App Dev Program — Selected Participant",
+  ],
   currentWork : "🏗️  Startup → Eazy Property & Solution",
   learning    : ["MERN Stack", "Flutter", "AI/LLMs"],
   interests   : ["Web Dev", "AI Apps", "Open Source"],
   openTo      : "Freelance · Collabs · Full-Time Roles",
 
-  contact     : "sannikumargupta43@gmail.com",
-  portfolio   : "sanniportfolio8579.netlify.app",
-  motto       : "⚡ I Love Tech and Tech Loves Me",
+  contact   : "sannikumargupta43@gmail.com",
+  portfolio : "sanniportfolio8579.netlify.app",
+  motto     : "⚡ I Love Tech and Tech Loves Me",
 };
 ```
 
 <br/>
 
-🔭 Working on → **My Startup (Eazy Property & Solution)**  
+🔭 Working on → **Eazy Property & Solution** (PropTech Startup)  
+🏢 Interned at → **Ideaforage Innovations** on the **Toynik.AI** project  
+🏛️ Selected for → **NIC Mobile App Development Program**  
 🌱 Learning → **MERN Stack · Flutter · AI Integration**  
-👯 Want to Collaborate on → **Real-world impactful projects**  
-💬 Talk to me about → **MERN, DSA, Tech, Collaborations**  
+👯 Open to → **Real-world impactful collaborations**  
+💬 Talk to me → **MERN, DSA, AI, Tech Collabs**  
 📫 Email → **sannikumargupta43@gmail.com**  
 ⚡ Fun Fact → **52+ repos and still going strong!**
 
@@ -65,6 +71,21 @@ const sanni: Developer = {
 [![Instagram](https://img.shields.io/badge/Instagram-itz____sanni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz____sanni)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sanni__gupta8579-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanni_gupta8579/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-sannikumaav1s-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sannikumaav1s/)
+
+</div>
+
+---
+
+## 💼 Experience & Achievements
+
+<div align="center">
+
+| 🏢 Role | 🏛️ Organization | 📅 Period |
+|:---|:---|:---|
+| **Software Development Intern** | Ideaforage Innovations Pvt. Ltd. (Toynik.AI) | May 2026 – Aug 2026 |
+| **Mobile App Dev Program** | National Informatics Centre (NIC) — Selected Participant | 2025 |
+| **Hackathon Winner** | Rockfall Prediction AI System (Mining Safety) | 2024 |
+| **SIH 2025 Participant** | Smart India Hackathon — National Level | 2025 |
 
 </div>
 
@@ -145,32 +166,24 @@ const sanni: Developer = {
 
 ## 📊 GitHub Stats
 
-> ℹ️ Stats cards load from GitHub's servers — they may take a few seconds. If blank, try refreshing.
-
 <div align="center">
 
-<a href="https://github.com/sannikumar85">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=sannikumar85&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD6387&ring=A78BFA&currStreakLabel=A78BFA" width="60%"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=sannikumar85&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=DD6387&currStreakLabel=a78bfa&sideLabels=a78bfa" width="60%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github.com/sannikumar85">
-  <img src="https://github-profile-trophy.vercel.app/?username=sannikumar85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=sannikumar85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 
 </div>
 
@@ -180,9 +193,7 @@ const sanni: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/sannikumar85">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area_color=302b63&area=true&hide_border=true&custom_title=Sanni's%20GitHub%20Activity%20Graph" width="95%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area_color=302b63&area=true&hide_border=true&custom_title=Sanni's%20GitHub%20Activity%20Graph" width="95%"/>
 
 </div>
 
@@ -190,41 +201,44 @@ const sanni: Developer = {
 
 ## 🐍 Contribution Snake
 
-<!-- 
-  ✅ SETUP IN 2 MINS:
-  1. Go to github.com/sannikumar85/sannikumar85
-  2. Click Actions → New workflow → "set up a workflow yourself"
-  3. Paste this YAML and commit:
+> **⚡ Setup in 2 minutes:** Go to your repo → **Actions** → **New workflow** → paste the YAML below → commit. The snake will auto-generate every day.
 
-  name: Generate Snake
-  on:
-    schedule: [{cron: "0 0 * * *"}]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: sannikumar85
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<details>
+<summary>📋 Click to copy the GitHub Actions workflow YAML</summary>
 
-  4. Then replace this entire comment block with:
-  <img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg"/>
--->
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: sannikumar85
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After setup, replace this entire section with:
+`![Snake](https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg)`
+
+</details>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
   <br/>
-  <em>🐍 Snake animation coming soon — setup takes 2 minutes! See comment above ☝️</em>
+  <em>🐍 Snake animation — run the workflow above once to activate it!</em>
 </div>
 
 ---
@@ -244,18 +258,33 @@ const sanni: Developer = {
      ├── 🌐 Web App (MERN Stack)
      ├── 📱 Mobile App (Flutter / Dart)
      └── 🤖 AI Features (LLM Integration)
+
+🏢  Internship — Ideaforage Innovations (Toynik.AI)
+     ├── 🔧 Software Development Intern
+     └── 📅 May 2026 – Aug 2026
 ```
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025–26 Goals
 
+- [x] 🏢 Land a **Software Development Internship**
+- [x] 🏛️ Get selected for **NIC Mobile App Dev Program**
 - [ ] 🚀 Launch **Eazy Property & Solution** MVP
 - [ ] 📱 Ship my first **Flutter app** to Play Store
 - [ ] 🤖 Build **3 more AI-integrated projects**
 - [ ] ⭐ Reach **100 GitHub Stars** across repos
 - [ ] 🌍 Contribute to **5+ Open Source** projects
-- [ ] 💼 Land a **great internship / full-time role**
+
+---
+
+## 📊 Repo Activity Summary
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=sannikumar85&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" width="70%"/>
+
+</div>
 
 ---
 
