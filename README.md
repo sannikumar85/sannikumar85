@@ -69,28 +69,38 @@ const sanni: Engineer = {
 
 ## 🌐 Connect With Me
 
-<div align="center">
+## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-new-b6ld.vercel.app/)
+<p align="center">
+  <a href="https://portfolio-new-b6ld.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sannikumargupta43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.youtube.com/@Sgcode-u85" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanni-kumar-gupta-10792b290)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sannikumargupta43@gmail.com)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sgcode-u85)
+<p align="center">
+  <a href="https://instagram.com/itz____sanni" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/sanni_gupta8579/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sannikumaav1s/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  <a href="https://github.com/sannikumar85" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br/><br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz____sanni)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanni_gupta8579/)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sannikumaav1s/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sannikumar85)
-
-</div>
 
 ---
 
