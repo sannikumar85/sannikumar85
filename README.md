@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:6D263F,45:B85C78,100:F4DDE3&text=SANNI%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Cloud%20Technologies&descAlignY=59&descSize=17" width="100%" alt="Sanni Kumar — AI and Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:6D263F,45:B85C78,100:F4DDE3&text=SANNI%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=38&desc=AI%20and%20Full%20Stack%20Developer&descAlign=50&descAlignY=65&descSize=17" width="100%" alt="Sanni Kumar - AI and Full Stack Developer"/>
 
 <a href="https://portfolio-new-b6ld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8F3857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D263F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -21,7 +21,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 - Former **Data Engineering Intern at Celebal Technologies**
 - Pursuing **B.Tech in Computer Science & Engineering** at JIET Jodhpur
 - Interested in **AI applications, full-stack development, data engineering, and cloud technologies**
-- Graduation: **2027** · CGPA: **9.76**
+- Graduation: **2027** Â· CGPA: **9.76**
 
 ---
 
@@ -35,7 +35,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 
 | Databases | Cloud & Data Engineering | Tools |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=azure,aws,docker" alt="Cloud"/> <br/> **Azure Data Factory · Databricks · PySpark · Delta Lake** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/> |
+| <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=azure,aws,docker" alt="Cloud"/> <br/> **Azure Data Factory Â· Databricks Â· PySpark Â· Delta Lake** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/> |
 
 </div>
 
@@ -48,7 +48,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
     <td width="50%" valign="top">
       <h3>AI Lego Toys</h3>
       <p>An AI-powered toy recommendation platform with a dedicated Python AI service and full-stack application components.</p>
-      <p><strong>Technologies:</strong> React · Node.js · Python · MongoDB</p>
+      <p><strong>Technologies:</strong> React Â· Node.js Â· Python Â· MongoDB</p>
       <a href="https://github.com/sannikumar85/AI_Lego-toys">
         <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Lego Toys"/>
       </a>
@@ -56,7 +56,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
     <td width="50%" valign="top">
       <h3>Healthcare Medallion Architecture</h3>
       <p>An end-to-end data engineering project using Azure Data Lake Storage, Databricks, Delta Lake, PySpark, and analytics.</p>
-      <p><strong>Technologies:</strong> Azure · PySpark · Delta Lake · SQL</p>
+      <p><strong>Technologies:</strong> Azure Â· PySpark Â· Delta Lake Â· SQL</p>
       <a href="https://github.com/sannikumar85/Healthcare-Medallion-Architecture">
         <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore Healthcare Medallion Architecture"/>
       </a>
@@ -119,7 +119,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 - Java Programming
 - Python Programming
 - NPTEL Certification
-- Full Stack Development — L&T
+- Full Stack Development â€” L&T
 - Azure Data Factory, Azure Databricks, PySpark, and Delta Lake
 
 ---
@@ -134,8 +134,9 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 
 <br/><br/>
 
-**DESIGN · DEVELOP · INNOVATE**
+**DESIGN Â· DEVELOP Â· INNOVATE**
 
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
