@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <p align="center">
-  <img src="./aurora-binary-rain-hd.gif" width="90%" alt="Aurora Binary Rain Animation"/>
+  <img src="./aurora-binary-rain-hd.gif" width="100% height="50%" alt="Aurora Binary Rain Animation"/>
 </p>
 
 <a href="https://portfolio-new-b6ld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8F3857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
