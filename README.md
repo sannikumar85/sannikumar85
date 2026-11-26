@@ -26,7 +26,12 @@
 
 <p align="center">
   <p align="center">
-  <img src="./title-glow.svg" width="100%" alt="Animated Developer Taglines"/>
+  <strong>🟢 FULL STACK DEVELOPER</strong><br><br>
+  ⚡ Building Scalable Web Applications<br>
+  ✦ Crafting Modern User Experiences<br>
+  🧠 Exploring AI &amp; Data Engineering<br>
+  🚀 Turning Ideas Into Intelligent Solutions<br><br>
+  <strong>🟢 CODE • INNOVATE • BUILD • DELIVER</strong>
 </p>
 </p>
 
@@ -160,6 +165,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 
 
 
