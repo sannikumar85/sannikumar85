@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="210" height="82" viewBox="0 0 210 82">
+  <defs>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="190%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="blur"/>
+      <feOffset dx="-4" dy="-4" in="blur" result="lightOffset"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.95" result="lightColor"/>
+      <feComposite in="lightColor" in2="lightOffset" operator="in" result="light"/>
+      <feOffset dx="5" dy="5" in="blur" result="darkOffset"/>
+      <feFlood flood-color="#A3AAB8" flood-opacity="0.65" result="darkColor"/>
+      <feComposite in="darkColor" in2="darkOffset" operator="in" result="dark"/>
+      <feMerge>
+        <feMergeNode in="light"/>
+        <feMergeNode in="dark"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="15" y="15" width="180" height="52" rx="16"
+        fill="#E6EAF5" filter="url(#shadow)"/>
+
+  <text x="105" y="37" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="17"
+        font-weight="bold" fill="#35445B">P</text>
+
+  <text x="105" y="55" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="12"
+        font-weight="600" letter-spacing="1"
+        fill="#526078">PORTFOLIO</text>
+</svg>
