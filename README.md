@@ -24,7 +24,9 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=1100&color=E6A0B8&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+Applications;Crafting+Modern+Full+Stack+Experiences;Turning+Ideas+Into+Scalable+Solutions;Exploring+AI%2C+Data+Engineering+%26+Cloud;Code.+Create.+Innovate." alt="Animated Developer Tagline"/>
+<p align="center">
+  <img src="./title-glow.svg" width="100%" alt="3D Animated Developer Title"/>
+</p>
 
 </div>
 
@@ -156,4 +158,5 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 

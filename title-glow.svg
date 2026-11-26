@@ -1,0 +1,61 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+  <defs>
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F3B6CB">
+        <animate attributeName="stop-color"
+          values="#F3B6CB;#FFFFFF;#B9A5FF;#F3B6CB"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FFFFFF">
+        <animate attributeName="stop-color"
+          values="#FFFFFF;#E9A2C0;#FFFFFF"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#B9A5FF">
+        <animate attributeName="stop-color"
+          values="#B9A5FF;#F3B6CB;#B9A5FF"
+          dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-40%" y="-100%" width="180%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation"
+          values="3;7;3" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="depth" x="-30%" y="-50%" width="160%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="shadow"/>
+      <feOffset in="shadow" dx="0" dy="4" result="offset"/>
+      <feFlood flood-color="#8F3857" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="offset" operator="in" result="depth"/>
+      <feMerge>
+        <feMergeNode in="depth"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="450" y="59" text-anchor="middle"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="35" font-weight="800" letter-spacing="1.2"
+    fill="url(#titleGradient)"
+    filter="url(#depth)">
+    Turning Ideas Into Digital Solutions
+    <animate attributeName="opacity"
+      values="0.88;1;0.88" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="450" y="59" text-anchor="middle"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="35" font-weight="800" letter-spacing="1.2"
+    fill="none" stroke="#FFFFFF" stroke-width="0.5"
+    opacity="0.7" filter="url(#glow)">
+    Turning Ideas Into Digital Solutions
+  </text>
+</svg>
