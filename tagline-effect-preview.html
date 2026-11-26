@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Developer Tagline Animation</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0d1117;
+    font-family: Arial, sans-serif;
+}
+
+.tagline-container {
+    width: 100%;
+    max-width: 1100px;
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    perspective: 800px;
+}
+
+#tagline {
+    color: #d9ffe6;
+    font-size: clamp(22px, 4vw, 38px);
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 1px;
+    opacity: 0;
+    transform: rotateX(-65deg) translateY(25px) scale(.9);
+    text-shadow:
+        1px 1px 0 #15803d,
+        2px 2px 0 #166534,
+        3px 3px 0 #14532d,
+        0 0 7px #22c55e,
+        0 0 16px #22c55e,
+        0 0 32px #16a34a;
+    transition: opacity .6s ease, transform .7s ease;
+}
+
+#tagline.show {
+    opacity: 1;
+    transform: rotateX(0deg) translateY(0) scale(1);
+    animation: greenPulse 2s ease-in-out infinite;
+}
+
+@keyframes greenPulse {
+    0%, 100% {
+        text-shadow:
+            1px 1px 0 #15803d,
+            2px 2px 0 #166534,
+            3px 3px 0 #14532d,
+            0 0 7px #22c55e,
+            0 0 16px #22c55e;
+    }
+    50% {
+        text-shadow:
+            1px 1px 0 #15803d,
+            2px 2px 0 #166534,
+            3px 3px 0 #14532d,
+            0 0 12px #4ade80,
+            0 0 28px #22c55e,
+            0 0 45px #16a34a;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    #tagline, #tagline.show {
+        animation: none;
+        transition: none;
+    }
+}
+</style>
+</head>
+
+<body>
+<div class="tagline-container">
+    <div id="tagline" aria-live="polite"></div>
+</div>
+
+<script>
+const taglines = [
+    "Full Stack Developer",
+    "Building Scalable Web Applications",
+    "Crafting Modern User Experiences",
+    "Exploring AI & Data Engineering",
+    "Turning Ideas Into Intelligent Solutions",
+    "Code • Innovate • Build • Deliver"
+];
+
+const element = document.getElementById("tagline");
+let index = 0;
+
+function showNextTagline() {
+    element.classList.remove("show");
+
+    setTimeout(() => {
+        element.textContent = taglines[index];
+        element.classList.add("show");
+
+        index = (index + 1) % taglines.length;
+    }, 650);
+}
+
+showNextTagline();
+setInterval(showNextTagline, 3500);
+</script>
+</body>
+</html>
