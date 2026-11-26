@@ -1,6 +1,8 @@
 ﻿<div align="center">
 
-<p align="center"><img src="./aurora-daylight-binary-rain-glitch.gif" width="100%" height="300" alt="Animated Aurora Binary Rain"/></p>
+<p align="center">
+<img src="./aurora-daylight-binary-rain-glitch.gif" width="90%" alt="Animated Aurora Binary Rain"/>
+</p>
 
 <a href="https://portfolio-new-b6ld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8F3857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D263F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -139,6 +141,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 
 
 
