@@ -26,12 +26,9 @@
 
 <p align="center">
   <p align="center">
-  <strong>🟢 FULL STACK DEVELOPER</strong><br><br>
-  ⚡ Building Scalable Web Applications<br>
-  ✦ Crafting Modern User Experiences<br>
-  🧠 Exploring AI &amp; Data Engineering<br>
-  🚀 Turning Ideas Into Intelligent Solutions<br><br>
-  <strong>🟢 CODE • INNOVATE • BUILD • DELIVER</strong>
+  <a href="https://sannikumar85.github.io/sannikumar85/">
+    🟢 VIEW ANIMATED DEVELOPER TAGLINES
+  </a>
 </p>
 </p>
 
@@ -165,6 +162,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 
 
 
