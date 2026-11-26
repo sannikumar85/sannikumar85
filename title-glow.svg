@@ -1,61 +1,77 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
   <defs>
-    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F3B6CB">
-        <animate attributeName="stop-color"
-          values="#F3B6CB;#FFFFFF;#B9A5FF;#F3B6CB"
-          dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#FFFFFF">
-        <animate attributeName="stop-color"
-          values="#FFFFFF;#E9A2C0;#FFFFFF"
-          dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#B9A5FF">
-        <animate attributeName="stop-color"
-          values="#B9A5FF;#F3B6CB;#B9A5FF"
-          dur="6s" repeatCount="indefinite"/>
-      </stop>
+    <linearGradient id="greenText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A7F3D0"/>
+      <stop offset="45%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#4ADE80"/>
     </linearGradient>
 
-    <filter id="glow" x="-40%" y="-100%" width="180%" height="300%">
-      <feGaussianBlur stdDeviation="4" result="blur">
+    <filter id="greenGlow" x="-40%" y="-100%" width="180%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur">
         <animate attributeName="stdDeviation"
-          values="3;7;3" dur="3s" repeatCount="indefinite"/>
+          values="3;8;3" dur="3s" repeatCount="indefinite"/>
       </feGaussianBlur>
+      <feFlood flood-color="#22C55E" flood-opacity="0.9" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="glow"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <filter id="depth" x="-30%" y="-50%" width="160%" height="220%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="2" result="shadow"/>
-      <feOffset in="shadow" dx="0" dy="4" result="offset"/>
-      <feFlood flood-color="#8F3857" flood-opacity="0.8" result="color"/>
-      <feComposite in="color" in2="offset" operator="in" result="depth"/>
-      <feMerge>
-        <feMergeNode in="depth"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
   </defs>
 
-  <text x="450" y="59" text-anchor="middle"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="35" font-weight="800" letter-spacing="1.2"
-    fill="url(#titleGradient)"
-    filter="url(#depth)">
-    Turning Ideas Into Digital Solutions
-    <animate attributeName="opacity"
-      values="0.88;1;0.88" dur="3s" repeatCount="indefinite"/>
-  </text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif"
+     font-size="32" font-weight="800" text-anchor="middle"
+     letter-spacing="0.7" filter="url(#greenGlow)">
 
-  <text x="450" y="59" text-anchor="middle"
-    font-family="Inter, Segoe UI, Arial, sans-serif"
-    font-size="35" font-weight="800" letter-spacing="1.2"
-    fill="none" stroke="#FFFFFF" stroke-width="0.5"
-    opacity="0.7" filter="url(#glow)">
-    Turning Ideas Into Digital Solutions
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">FULL STACK DEVELOPER</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="0s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">Building Scalable Web Applications</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="-20s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">Crafting Modern User Experiences</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="-16s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">Exploring AI &amp; Data Engineering</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="-12s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">Turning Ideas Into Intelligent Solutions</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="-8s" repeatCount="indefinite"/>
+    </g>
+
+    <g opacity="0">
+      <text x="500" y="66" fill="url(#greenText)">CODE • INNOVATE • BUILD • DELIVER</text>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.8;1" dur="24s" begin="-4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <rect x="140" y="91" width="720" height="2" rx="1" fill="#22C55E" opacity="0.25"/>
+  <rect x="140" y="91" width="720" height="2" rx="1" fill="url(#shine)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="500" y="120" text-anchor="middle"
+        font-family="Inter,Arial,sans-serif"
+        font-size="13" font-weight="600"
+        letter-spacing="3" fill="#A7F3D0" opacity="0.85">
+    SOFTWARE DEVELOPMENT  ·  AI  ·  CLOUD  ·  DATA
   </text>
 </svg>

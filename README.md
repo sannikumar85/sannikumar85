@@ -25,7 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="./title-glow.svg" width="100%" alt="3D Animated Developer Title"/>
+  <p align="center">
+  <img src="./title-glow.svg" width="100%" alt="Animated Developer Taglines"/>
+</p>
 </p>
 
 </div>
@@ -158,5 +160,6 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 
 
