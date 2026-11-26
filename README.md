@@ -1,178 +1,321 @@
 ﻿<div align="center">
 
-<p align="center">
-  <img
-    src="./aurora-binary-rain-hd.gif"
-    width="100%"
-    height="337"
-    alt="Aurora Binary Rain Animation"
-  />
-</p>
+<!-- ============ ANIMATED HEADER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sanni%20Kumar%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=🚀%20Software%20Engineer%20%7C%20🤖%20AI%20Builder%20%7C%20📊%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<!-- ============ TYPING ANIMATION ============ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=👋+Hey!+I'm+Sanni+Kumar+Gupta;🚀+MERN+Stack+%26+Full-Stack+Developer;🤖+Building+AI-Powered+Real+Projects;📊+Data+Engineer+%7C+DSA+in+Java;🎓+B.Tech+CSE+%7C+Class+of+2027;💼+Founder+%40+Eazy+Property+%26+Solution;🤝+Let's+Build+Something+Together!)](https://github.com/sannikumar85)
+
+<br/>
+
+<!-- ============ PROFILE BADGES ============ -->
+<img src="https://komarev.com/ghpvc/?username=sannikumar85&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sannikumar85?label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=6d28d9" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/sannikumar85?label=%E2%AD%90%20Total%20Stars&style=for-the-badge&color=fbbf24" alt="Total Stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/📁_Public_Repos-52+-7c3aed?style=for-the-badge" alt="Public Repos" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me — The Engineer Behind The Code
+
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```typescript
+const sanni: Engineer = {
+  name      : "Sanni Kumar Gupta",
+  role      : "Software Engineer & Data Engineer",
+  location  : "🇮🇳 Rajasthan, India",
+  education : "B.Tech CSE — Class of 2027",
+
+  currentFocus : [
+    
+    "🤖  Building AI-integrated full-stack products",
+    "📊  Data Engineering with Python + SQL + ETL",
+    "📱  Cross-platform apps with Flutter"
+  ],
+
+  stack        : {
+    languages  : ["JavaScript", "TypeScript", "Java", "Python", "Dart"],
+    frontend   : ["React", "Next.js", "Tailwind", "Redux", "Flutter"],
+    backend    : ["Node.js", "Express", "FastAPI", "Socket.io", "REST"],
+    data       : ["MongoDB", "MySQL", "Firebase", "Pandas", "NumPy"],
+    devops     : ["Git", "GitHub", "Docker", "Vercel", "Render", "Netlify"],
+    ai         : ["OpenAI API", "LLM Integrations"]
+  },
+
+  funFact    : "⚡ 52+ repos, multiple hackathons, and I'm just getting started!",
+  motto      : "Build → Ship → Learn → Repeat 🚀",
+  email      : "sannikumargupta43@gmail.com",
+  portfolio  : "sanniportfolio8579.netlify.app"
+};
+```
+
+<br/>
+
+- 🌱 **Learning** → MERN Stack · Flutter · AI/LLM · Data Engineering
+- 👯 **Open to collaborate on** → Real-world impactful projects & open source
+- 💬 **Ask me about** → MERN, DSA in Java, AI Integration, Startups
+- 📫 **Reach me at** → sannikumargupta43@gmail.com
+- ⚡ **Fun fact** → 52+ repos and still counting!
+
+<br clear="right"/>
+
+---
+
+
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-new-b6ld.vercel.app/">
-    <img src="./buttons/portfolio.svg" width="170" alt="Portfolio"/>
+  <a href="https://portfolio-new-b6ld.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/">
-    <img src="./buttons/linkedin.svg" width="170" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sannikumar85">
-    <img src="./buttons/github.svg" width="170" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sannikumargupta43@gmail.com">
-    <img src="./buttons/email.svg" width="170" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.youtube.com/@Sgcode-u85" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
 <p align="center">
-  <p align="center">
-  <strong>🟢 FULL STACK DEVELOPER</strong>
-  <br><br>
-  ⚡ Building Scalable Web Applications
-  <br>
-  ✦ Crafting Modern User Experiences
-  <br>
-  🧠 Exploring AI &amp; Data Engineering
-  <br>
-  🚀 Turning Ideas Into Intelligent Solutions
-  <br><br>
-  <strong>🟢 CODE • INNOVATE • BUILD • DELIVER</strong>
+  <a href="https://instagram.com/itz____sanni" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/sanni_gupta8579/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sannikumaav1s/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  <a href="https://github.com/sannikumar85" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-</p>
+
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🤖 AI & Advanced Projects
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**🤖 JiraTicket Analyzer**](https://github.com/sannikumar85/JiraTicketAnlyzer) | Production AI agent — checks if a GitHub PR satisfies a Jira ticket and returns **PASS / PARTIAL / FAIL** with requirement-level evidence | `TypeScript` `React` `Express` `OpenAI` `Tailwind` `Vitest` |
+| [**🧸 AI Lego Toys**](https://github.com/sannikumar85/AI_Lego-toys) | AI-powered toy recommendation platform with a **dedicated Python AI microservice** | `MERN` `Python` `MongoDB` `Vite` |
+| [**⛏️ Rockfall Prediction**](https://github.com/sannikumar85/Hackthon_project_for_rockfall_prediction) | 🏆 Hackathon-winning AI mining-safety system predicting rockfalls from live sensor + camera feeds | `JavaScript` `AI/ML` `OpenCV` |
+| [**🏆 SIH 2025**](https://github.com/sannikumar85/SIH2025) | Smart India Hackathon 2025 — national-level submission | `MERN` `JavaScript` |
+
+### 🌐 Web & Mobile Apps
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| [**📅 Timetable Scheduler**](https://github.com/sannikumar85/TIME_TABLE_SCHEDULAR) | Smart college timetable management with conflict-free scheduling | `MongoDB` `Express` `React` `Node` |
+| [**📱 Go Gantabye**](https://github.com/sannikumar85/GO_GANTABYE_MOBILE_APP_FRONTEND) | Mobile frontend for a real-world travel/transport solution | `Flutter` `Dart` |
+| [**🏗️ Eazy Property**](https://github.com/sannikumar85) | My PropTech startup — connecting buyers, sellers & renters | `MERN` `Flutter` `AI` |
 
 </div>
 
 ---
 
-## ABOUT ME
-
-I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelligent applications, scalable web solutions, and cloud-based systems.
-
-- Currently working as a **Developer at Acuvisor Insurance Broker**
-- Former **Data Engineering Intern at Celebal Technologies**
-- Pursuing **B.Tech in Computer Science & Engineering** at JIET Jodhpur
-- Interested in **AI applications, full-stack development, data engineering, and cloud technologies**
-- Graduation: **2027** Ã‚Â· CGPA: **9.76**
-
----
-
-## TECH STACK
+## 💻 Tech Stack
 
 <div align="center">
 
-| Languages | Frontend | Backend |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css" alt="Languages"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux" alt="Frontend"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/> |
+### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-| Databases | Cloud & Data Engineering | Tools |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=azure,aws,docker" alt="Cloud"/> <br/> **Azure Data Factory Ã‚Â· Databricks Ã‚Â· PySpark Ã‚Â· Delta Lake** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/> |
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## FEATURED PROJECTS
+## 📊 GitHub Stats — Animated & Always Working
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Lego Toys</h3>
-      <p>An AI-powered toy recommendation platform with a dedicated Python AI service and full-stack application components.</p>
-      <p><strong>Technologies:</strong> React Ã‚Â· Node.js Ã‚Â· Python Ã‚Â· MongoDB</p>
-      <a href="https://github.com/sannikumar85/AI_Lego-toys">
-        <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Lego Toys"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Healthcare Medallion Architecture</h3>
-      <p>An end-to-end data engineering project using Azure Data Lake Storage, Databricks, Delta Lake, PySpark, and analytics.</p>
-      <p><strong>Technologies:</strong> Azure Ã‚Â· PySpark Ã‚Â· Delta Lake Ã‚Â· SQL</p>
-      <a href="https://github.com/sannikumar85/Healthcare-Medallion-Architecture">
-        <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore Healthcare Medallion Architecture"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Solvia</h3>
-      <p>A project from my GitHub portfolio. Visit the repository for its current implementation and technical details.</p>
-      <a href="https://github.com/sannikumar85/Solvia">
-        <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore Solvia"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>VS Code Project</h3>
-      <p>A development project from my GitHub portfolio. Visit the repository to explore the source code.</p>
-      <a href="https://github.com/sannikumar85/vscode">
-        <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore VS Code Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## GITHUB ANALYTICS
+> 💡 **Why these work when others don't:** I'm using **multiple fallback services** in parallel so at least one always loads.
 
 <div align="center">
 
+<!-- ============ PRIMARY: GitHub Profile Summary Cards (MOST RELIABLE) ============ -->
 <a href="https://github.com/sannikumar85">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFF9FA&title_color=8F3857&icon_color=B65373&text_color=49343D" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/sannikumar85">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&langs_count=8&hide_border=true&bg_color=FFF9FA&title_color=8F3857&text_color=49343D" alt="Most used languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannikumar85&theme=tokyonight&hide_border=true" alt="Stats Card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sannikumar85&theme=tokyonight&hide_border=true&exclude_repo=github-profile-summary-cards,sannikumar85" alt="Top Languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sannikumar85&theme=default&hide_border=true&background=FFF9FA&ring=B65373&fire=8F3857&currStreakLabel=8F3857&sideLabels=49343D&currStreakNum=49343D&sideNums=49343D&dates=806B73" alt="GitHub contribution streak"/>
+<a href="https://github.com/sannikumar85">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sannikumar85&theme=tokyonight&hide_border=true" alt="Most Commits" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sannikumar85&theme=tokyonight&hide_border=true" alt="Productive Time" />
+</a>
 
 </div>
 
----
-
-## CONTRIBUTION ACTIVITY
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=fff9fa&color=49343d&line=b65373&point=8f3857&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<!-- ============ SECONDARY: GitHub Readme Stats ============ -->
+<a href="https://github.com/sannikumar85">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
+</a>
 
-<img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+ </div>
 
+---
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sannikumar85&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD6387&ring=A78BFA&currStreakLabel=A78BFA&sideLabels=7c3aed" width="65%" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
 
-## CERTIFICATIONS & LEARNING
+## 🏆 Achievements & Trophies
 
-- C Programming
-- Java Programming
-- Python Programming
-- NPTEL Certification
-- Full Stack Development Ã¢â‚¬â€ L&T
-- Azure Data Factory, Azure Databricks, PySpark, and Delta Lake
+<div align="center">
+  <a href="https://github.com/sannikumar85">
+    <img src="https://github-profile-trophy.vercel.app/?username=sannikumar85&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
-## CONNECT
+## 📈 Contribution Activity Graph
+
+<div align="center">
+  <a href="https://github.com/sannikumar85">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area_color=302b63&area=true&hide_border=true&custom_title=Sanni's%20GitHub%20Activity%20Graph&radius=8" width="95%" alt="Activity Graph"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake — Step-by-Step Setup
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%" alt="Dev Quote"/>
+</div>
+
+---
+
+## 🏗️ What I'm Building Right Now
+
+```
+🏢  Eazy Property & Solution  —  My PropTech Startup
+     │
+     ├── 🌐  Web Platform      →  MERN Stack (React, Node, Express, MongoDB)
+     ├── 📱  Mobile App        →  Flutter / Dart (cross-platform)
+     ├── 🤖  AI Layer          →  LLM-powered property recommendations
+     └── 📊  Data Pipeline     →  Python ETL + analytics
+```
+
+---
+
+## 🎯 My 2025 Goals
+
+- [x] ✅ **Cross 50+ public repos on GitHub**
+- [ ] 🚀 **Launch Eazy Property & Solution MVP**
+- [ ] 📱 **Ship first Flutter app to Play Store**
+- [ ] 🤖 **Build 3 more AI-integrated projects**
+- [ ] ⭐ **Reach 100 GitHub Stars across repos**
+- [ ] 🌍 **Contribute to 5+ Open Source projects**
+- [ ] 💼 **Land a great internship / full-time role**
+- [ ] 📊 **Master Data Engineering fundamentals**
+
+---
+
+## 🤝 Open Source Contributions
+
+> I actively look for projects to contribute to. If you're building something in **MERN, AI, or Flutter**, let's collaborate!
+
+📩 **DM me on LinkedIn** or email **sannikumargupta43@gmail.com**
+
+---
+
+## 💜 Support My Work
+
+If you like what I do, consider:
+
+- ⭐ **Starring** my repositories
+- 🐦 **Sharing** my work on social media
+- 🤝 **Collaborating** on open-source projects
+- ☕ **Sponsoring** via [GitHub Sponsors](https://github.com/sponsors/sannikumar85)
+
+---
 
 <div align="center">
 
-<a href="https://leetcode.com/sanni_gupta8579/"><img src="https://img.shields.io/badge/LeetCode-Profile-8F3857?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/profile/sannikumaav1s"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6D263F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://www.youtube.com/@Sgcode-u85"><img src="https://img.shields.io/badge/YouTube-Subscribe-8F3857?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
-<br/><br/>
+### 💜 *"Building real-world solutions, one commit at a time."*
 
-**DESIGN Ã‚Â· DEVELOP Ã‚Â· INNOVATE**
+<img src="https://visitcount.itsvg.in/api?id=sannikumar85&icon=6&color=7" alt="Visitor Count"/>
 
-<sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
+**Made with ❤️ + ☕ from Rajasthan, India 🇮🇳**
+
+*⭐ Drop a star on my repos — it motivates me to build more!*
 
 </div>
-
-
-
-
-
-
