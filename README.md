@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:6D263F,45:B85C78,100:F4DDE3&text=SANNI%20KUMAR&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=38&desc=AI%20and%20Full%20Stack%20Developer&descAlign=50&descAlignY=65&descSize=17" width="100%" alt="Sanni Kumar - AI and Full Stack Developer"/>
+<img src="./profile-banner.png" width="100%" alt="Sanni Kumar - AI and Full Stack Developer"/>
 
 <a href="https://portfolio-new-b6ld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8F3857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D263F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -139,4 +139,5 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
 
