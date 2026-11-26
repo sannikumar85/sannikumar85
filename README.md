@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <p align="center">
   <img
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2800&pause=900&color=B65373&center=true&vCenter=true&width=720&lines=Building+Intelligent+Applications;Developing+Modern+Full+Stack+Experiences;Exploring+AI%2C+Data+%26+Cloud+Technologies;Turning+Ideas+Into+Digital+Solutions" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=1100&color=E6A0B8&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+Applications;Crafting+Modern+Full+Stack+Experiences;Turning+Ideas+Into+Scalable+Solutions;Exploring+AI%2C+Data+Engineering+%26+Cloud;Code.+Create.+Innovate." alt="Animated Developer Tagline"/>
 
 </div>
 
@@ -38,7 +38,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 - Former **Data Engineering Intern at Celebal Technologies**
 - Pursuing **B.Tech in Computer Science & Engineering** at JIET Jodhpur
 - Interested in **AI applications, full-stack development, data engineering, and cloud technologies**
-- Graduation: **2027** Â· CGPA: **9.76**
+- Graduation: **2027** Ã‚Â· CGPA: **9.76**
 
 ---
 
@@ -52,7 +52,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 
 | Databases | Cloud & Data Engineering | Tools |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=azure,aws,docker" alt="Cloud"/> <br/> **Azure Data Factory Â· Databricks Â· PySpark Â· Delta Lake** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/> |
+| <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/> | <img src="https://skillicons.dev/icons?i=azure,aws,docker" alt="Cloud"/> <br/> **Azure Data Factory Ã‚Â· Databricks Ã‚Â· PySpark Ã‚Â· Delta Lake** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Tools"/> |
 
 </div>
 
@@ -65,7 +65,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
     <td width="50%" valign="top">
       <h3>AI Lego Toys</h3>
       <p>An AI-powered toy recommendation platform with a dedicated Python AI service and full-stack application components.</p>
-      <p><strong>Technologies:</strong> React Â· Node.js Â· Python Â· MongoDB</p>
+      <p><strong>Technologies:</strong> React Ã‚Â· Node.js Ã‚Â· Python Ã‚Â· MongoDB</p>
       <a href="https://github.com/sannikumar85/AI_Lego-toys">
         <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Lego Toys"/>
       </a>
@@ -73,7 +73,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
     <td width="50%" valign="top">
       <h3>Healthcare Medallion Architecture</h3>
       <p>An end-to-end data engineering project using Azure Data Lake Storage, Databricks, Delta Lake, PySpark, and analytics.</p>
-      <p><strong>Technologies:</strong> Azure Â· PySpark Â· Delta Lake Â· SQL</p>
+      <p><strong>Technologies:</strong> Azure Ã‚Â· PySpark Ã‚Â· Delta Lake Ã‚Â· SQL</p>
       <a href="https://github.com/sannikumar85/Healthcare-Medallion-Architecture">
         <img src="https://img.shields.io/badge/Explore_Project-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="Explore Healthcare Medallion Architecture"/>
       </a>
@@ -136,7 +136,7 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 - Java Programming
 - Python Programming
 - NPTEL Certification
-- Full Stack Development â€” L&T
+- Full Stack Development Ã¢â‚¬â€ L&T
 - Azure Data Factory, Azure Databricks, PySpark, and Delta Lake
 
 ---
@@ -151,8 +151,9 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 
 <br/><br/>
 
-**DESIGN Â· DEVELOP Â· INNOVATE**
+**DESIGN Ã‚Â· DEVELOP Ã‚Â· INNOVATE**
 
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
+
