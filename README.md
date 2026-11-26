@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <p align="center">
   <img
@@ -9,10 +9,20 @@
   />
 </p>
 
-<a href="https://portfolio-new-b6ld.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8F3857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D263F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/sannikumar85"><img src="https://img.shields.io/badge/GitHub-Follow-8F3857?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:sannikumargupta43@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D263F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <a href="https://portfolio-new-b6ld.vercel.app/">
+    <img src="./buttons/portfolio.svg" width="170" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/">
+    <img src="./buttons/linkedin.svg" width="170" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sannikumar85">
+    <img src="./buttons/github.svg" width="170" alt="GitHub"/>
+  </a>
+  <a href="mailto:sannikumargupta43@gmail.com">
+    <img src="./buttons/email.svg" width="170" alt="Email"/>
+  </a>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2800&pause=900&color=B65373&center=true&vCenter=true&width=720&lines=Building+Intelligent+Applications;Developing+Modern+Full+Stack+Experiences;Exploring+AI%2C+Data+%26+Cloud+Technologies;Turning+Ideas+Into+Digital+Solutions" alt="Animated introduction"/>
 
@@ -146,4 +156,3 @@ I'm **Sanni Kumar**, an AI & Full Stack Developer interested in building intelli
 <sub>Thanks for visiting my profile. Feel free to explore my repositories and connect.</sub>
 
 </div>
-
