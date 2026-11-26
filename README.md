@@ -1,120 +1,167 @@
 
+<!-- ===================================================== -->
+<!-- SANNI KUMAR | GITHUB PROFILE README                    -->
+<!-- Theme: Ivory | Dusty Pink | White | Black              -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=230&section=header&text=SANNI%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20Cloud%20Technologies&descAlignY=58&descSize=17" width="100%" />
+<h1>SANNI KUMAR</h1>
 
-# Sanni Kumar
+<h3>AI & Full Stack Developer</h3>
 
-### AI & Full Stack Developer | Cloud Technologies
+<p><strong>Cloud Technologies</strong></p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=CB8F9A&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Creating+Modern+Full+Stack+Experiences;Exploring+AI+%26+Cloud+Technologies;Turning+Ideas+Into+Digital+Solutions"
+  alt="Animated introduction"
+/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Developing+Modern+Web+Solutions;Exploring+AI+%26+Cloud+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  Building intelligent applications, modern web experiences
+  <br/>
+  and scalable cloud-based solutions.
 </p>
 
-<p>
-  <a href="https://portfolio-new-b6ld6.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sannikumargupta43@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sannikumar85&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<a href="https://portfolio-new-b6ld.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-CB8F9A?style=for-the-badge&labelColor=171717" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F8F5F2?style=for-the-badge&logo=linkedin&logoColor=171717&labelColor=CB8F9A" alt="LinkedIn"/>
+</a>
+<a href="mailto:sannikumargupta43@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-171717?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=CB8F9A" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sannikumar85&label=PROFILE%20VIEWS&color=CB8F9A&style=flat-square" alt="Profile views"/>
+
+<br/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | मेरे बारे में
+## ABOUT ME
 
-Hello! I'm **Sanni Kumar**, an AI & Full Stack Developer passionate about building intelligent applications, scalable web solutions, and cloud-based systems.
+**Hello! I'm Sanni Kumar**, an AI & Full Stack Developer interested in creating intelligent applications, scalable web solutions, and cloud-based systems.
 
-नमस्ते! मैं Sanni Kumar हूँ। मुझे AI-powered applications, modern web development और cloud technologies के साथ real-world problems solve करना पसंद है।
-
-- 💼 Currently working as a **Developer at Acuvisor Insurance Broker**
-- 🎓 B.Tech in Computer Science & Engineering — JIET Jodhpur
-- 📊 Academic CGPA: **9.76**
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Building modern full-stack web applications
-- ☁️ Exploring Cloud Technologies and scalable architectures
-- 🚀 Focused on solving real-world problems through technology
-- 🤝 Open to collaboration and innovative projects
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,html,css" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux" />
-</p>
-
-### Backend Development & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### AI, Machine Learning & Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv,azure" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/PySpark-Data%20Engineering-E25A1C?style=flat-square" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-Cloud%20ETL-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Databricks-Data%20Platform-FF3621?style=flat-square" />
-<img src="https://img.shields.io/badge/Delta%20Lake-Data%20Lakehouse-00A1E0?style=flat-square" />
-</p>
-
-### Cloud, DevOps & Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode,vercel" />
-</p>
-
----
-
-## 🚀 Featured Projects | प्रमुख प्रोजेक्ट्स
+नमस्ते! मैं Sanni Kumar हूँ। मुझे Artificial Intelligence, Full Stack Development और Cloud Technologies के माध्यम से real-world problems solve करना पसंद है।
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Lego Toys
+### PROFESSIONAL
 
-AI-powered toy platform focused on intelligent toy experiences.
+- Developer at Acuvisor Insurance Broker
+- Former Data Engineering Intern at Celebal Technologies
+- Interested in AI-powered applications
+- Building modern full-stack products
+- Exploring cloud and data technologies
 
-**Technologies:** React, Node.js, Python, MongoDB
+</td>
+<td width="50%" valign="top">
+
+### EDUCATION
+
+- **Degree:** B.Tech CSE
+- **Institute:** JIET Jodhpur
+- **Graduation:** 2027
+- **CGPA:** 9.76
+- **Location:** Rajasthan, India
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**DESIGN · DEVELOP · INNOVATE**
+
+<sub>Turning ideas into meaningful digital experiences.</sub>
+
+</div>
+
+---
+
+## TECH STACK & TECHNOLOGIES
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,html,css" alt="Programming languages"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" alt="Frontend technologies"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend technologies"/>
+</p>
+
+### Database & Storage
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/>
+</p>
+
+### Artificial Intelligence & Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Python-ML%20%26%20AI-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/OpenAI-LLM%20Integration-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/OpenCV-Image%20Processing-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/PySpark-Data%20Processing-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-Data%20Lakehouse-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-ETL-CB8F9A?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/Azure%20Databricks-Analytics-CB8F9A?style=flat-square&labelColor=171717"/>
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman,vscode,vercel" alt="Cloud and tools"/>
+</p>
+
+---
+
+## FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Lego Toys
+
+An AI-powered toy recommendation platform with a dedicated Python AI service and full-stack application components.
+
+**Stack:** React · Node.js · Python · MongoDB
 
 <a href="https://github.com/sannikumar85/AI_Lego-toys">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-CB8F9A?style=flat-square&labelColor=171717"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Healthcare Medallion Architecture
+### Healthcare Medallion Architecture
 
-End-to-end healthcare data engineering solution using Medallion Architecture.
+End-to-end healthcare data engineering project using Azure Data Lake, Databricks, Delta Lake and Power BI.
 
-**Technologies:** Azure, Databricks, PySpark, Delta Lake, SQL
+**Stack:** Azure · PySpark · Delta Lake · SQL · Power BI
 
 <a href="https://github.com/sannikumar85/Healthcare-Medallion-Architecture">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-CB8F9A?style=flat-square&labelColor=171717"/>
 </a>
 
 </td>
@@ -123,57 +170,96 @@ End-to-end healthcare data engineering solution using Medallion Architecture.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Jira Ticket Analyzer
+### Jira Ticket Evaluator
 
-AI-based project focused on analyzing Jira ticket requirements and development workflows.
+AI-powered tool that evaluates GitHub Pull Requests against Jira ticket requirements and generates structured PASS, PARTIAL or FAIL verdicts.
 
-**Technologies:** TypeScript, React, Node.js, AI
+**Stack:** TypeScript · React · Express · OpenAI
 
 <a href="https://github.com/sannikumar85/JiraTicketAnlyzer">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-CB8F9A?style=flat-square&labelColor=171717"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ AI-Based Rockfall Prediction
+### AI-Based Rockfall Prediction
 
-AI/ML-based project focused on rockfall risk prediction and mining safety.
+AI-based mining safety project for rockfall risk assessment using computer vision and sensor-related analysis.
 
-**Technologies:** Python, Machine Learning, Computer Vision
+**Stack:** JavaScript · Python · AI/ML · Computer Vision
 
 <a href="https://github.com/sannikumar85/Hackthon_project_for_rockfall_prediction">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-CB8F9A?style=flat-square&labelColor=171717"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Acuvisor B2B Dashboard
+
+Professional insurance operations and dashboard development work at Acuvisor Insurance Broker.
+
+**Stack:** React · JavaScript · Node.js · Web Technologies
+
+<sub>Company project — source repository is not listed publicly.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Smart India Hackathon 2025
+
+Hackathon project developed as part of the Smart India Hackathon 2025.
+
+<a href="https://github.com/sannikumar85/SIH2025">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GitHub-CB8F9A?style=flat-square&labelColor=171717"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+### More Projects
+
+- [College Timetable Scheduler](https://github.com/sannikumar85/TIME_TABLE_SCHEDULAR)
+- [Go Gantabye Mobile App](https://github.com/sannikumar85/GO_GANTABYE_MOBILE_APP_FRONTEND)
+
 ---
 
-## 💼 Professional Experience
+## PROFESSIONAL EXPERIENCE
 
 ### Developer — Acuvisor Insurance Broker
 
-- Working on software and web application development.
-- Building and improving frontend application experiences.
-- Working with modern development technologies and workflows.
+- Developing and improving web application experiences.
+- Working on frontend interfaces and dashboard functionality.
+- Contributing to application development and user workflows.
+
+### Data Engineering Intern — Celebal Technologies
+
+**May 2026 – July 2026**
+
+- Worked on Azure-based data engineering concepts.
+- Gained practical exposure to Azure Data Factory and Databricks.
+- Worked with PySpark, Delta Lake and Medallion Architecture.
+- Explored data ingestion, transformation and analytics workflows.
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
-| Details | Information |
+| Qualification | Details |
 |---|---|
 | Degree | B.Tech — Computer Science & Engineering |
-| Institute | Jodhpur Institute of Engineering & Technology (JIET) |
+| Institute | Jodhpur Institute of Engineering & Technology |
 | Graduation Year | 2027 |
 | CGPA | 9.76 |
 
 ---
 
-## 📜 Certifications
+## CERTIFICATIONS
 
 - C Programming
 - Java Programming
@@ -183,71 +269,125 @@ AI/ML-based project focused on rockfall risk prediction and mining safety.
 
 ---
 
-## 📊 GitHub Analytics
+## GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <strong>PROFILE OVERVIEW & CONTRIBUTION HISTORY</strong>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sannikumar85&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/summary-cards/0-profile-details.svg"
+    width="100%"
+    alt="GitHub profile details and contribution history"
+  />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikumar85&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sannikumar85&theme=tokyonight&hide_border=true" />
-
-</div>
+<table>
+<tr>
+<td width="50%">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/summary-cards/1-repos-per-language.svg"
+    width="100%"
+    alt="Languages used across repositories"
+  />
+</td>
+<td width="50%">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/summary-cards/2-most-commit-language.svg"
+    width="100%"
+    alt="Languages by commit activity"
+  />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/summary-cards/3-stats.svg"
+    width="100%"
+    alt="GitHub statistics including commits, PRs and issues"
+  />
+</td>
+<td width="50%">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/summary-cards/4-productive-time.svg"
+    width="100%"
+    alt="Coding productivity by time of day"
+  />
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Activity
+## CONTRIBUTION STREAK
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannikumar85&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/streak.svg"
+    width="100%"
+    alt="Current streak, longest streak and total contributions"
+  />
+</p>
 
 ---
 
-## 🌐 Coding Profiles & Connect
+## CONTRIBUTION SNAKE
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sannikumar85/sannikumar85/output/snake.svg"
+    width="100%"
+    alt="Animated GitHub contribution snake"
+  />
+</p>
+
+---
+
+## CODING PROFILES
 
 <div align="center">
 
-<a href="https://leetcode.com/sanni_gupta8579/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/sanni_gupta8579/">
+  <img src="https://img.shields.io/badge/LeetCode-PROFILE-CB8F9A?style=for-the-badge&logo=leetcode&logoColor=171717&labelColor=F8F5F2"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/sannikumaav1s">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GFG-PROFILE-171717?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=CB8F9A"/>
 </a>
 
-<a href="https://www.youtube.com/@Sgcode-u85">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://github.com/sannikumar85">
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-FFFFFF?style=for-the-badge&logo=github&logoColor=171717&labelColor=CB8F9A"/>
 </a>
 
+</div>
+
+---
+
+## CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://portfolio-new-b6ld.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-CB8F9A?style=for-the-badge&labelColor=171717"/>
+</a>
 <a href="https://www.linkedin.com/in/sanni-kumar-gupta-10792b290/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=171717&labelColor=CB8F9A"/>
 </a>
-
-<a href="https://portfolio-new-b6ld6.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.youtube.com/@Sgcode-u85">
+  <img src="https://img.shields.io/badge/YOUTUBE-Subscribe-171717?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=CB8F9A"/>
+</a>
+<a href="mailto:sannikumargupta43@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Write%20Me-CB8F9A?style=for-the-badge&logo=gmail&logoColor=171717&labelColor=F8F5F2"/>
 </a>
 
 <br/><br/>
 
-📧 **Email:** sannikumargupta43@gmail.com
+**Email:** sannikumargupta43@gmail.com
 
-📱 **Mobile:** +91 8579037260
+**Mobile:** +91 8579037260
+
+**Portfolio:** https://portfolio-new-b6ld.vercel.app/
 
 </div>
 
@@ -255,10 +395,12 @@ AI/ML-based project focused on rockfall risk prediction and mining safety.
 
 <div align="center">
 
-### 💡 Build. Learn. Innovate. Repeat.
+<h3>BUILD · LEARN · INNOVATE · REPEAT</h3>
 
-**हर दिन कुछ नया सीखो, कुछ नया बनाओ और बेहतर बनते रहो!**
+<sub>हर दिन कुछ नया सीखो, कुछ नया बनाओ और बेहतर बनते रहो।</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<strong>Made with care by Sanni Kumar</strong>
 
 </div>
